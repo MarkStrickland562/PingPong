@@ -1,0 +1,14 @@
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.deps.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.csproj.CoreCompileInputs.cache
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.AssemblyInfo.cs
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.runtimeconfig.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.runtimeconfig.dev.json

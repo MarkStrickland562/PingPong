@@ -1,0 +1,6 @@
+
+1) User enters a positive integer.
+2) Numbers divisible by 3 and 5 are replaced by "ping-pong".
+3) Numbers divisible by 3 are replaced by "ping".
+4) Numbers divisible by 5 are replaced by "pong".
+5) Numbers not divisible by 3 or 5 are displayed as is.
